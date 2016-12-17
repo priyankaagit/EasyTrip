@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+                      http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+  version="3.0"
+  metadata-complete="true">
+  <servlet>
+        <servlet-name>FindVehicleAvailable</servlet-name>
+        <servlet-class>FindVehicleAvailable</servlet-class>
+    </servlet>
+
+
+    <servlet-mapping>
+        <servlet-name>FindVehicleAvailable</servlet-name>
+        <url-pattern>/FindVehicleAvailable</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+          <servlet-name>VehicleSelect</servlet-name>
+          <servlet-class>VehicleSelect</servlet-class>
+      </servlet>
+
+
+      <servlet-mapping>
+          <servlet-name>VehicleSelect</servlet-name>
+          <url-pattern>/VehicleSelect</url-pattern>
+      </servlet-mapping>
+
+      <servlet>
+            <servlet-name>AccessorySelect</servlet-name>
+            <servlet-class>AccessorySelect</servlet-class>
+        </servlet>
+
+
+        <servlet-mapping>
+            <servlet-name>AccessorySelect</servlet-name>
+            <url-pattern>/AccessorySelect</url-pattern>
+        </servlet-mapping>
+
+
+        <servlet>
+              <servlet-name>BookingConfirm</servlet-name>
+              <servlet-class>BookingConfirm</servlet-class>
+          </servlet>
+
+
+          <servlet-mapping>
+              <servlet-name>BookingConfirm</servlet-name>
+              <url-pattern>/BookingConfirm</url-pattern>
+          </servlet-mapping>
+
+
+          <servlet>
+         <servlet-name>SignUp</servlet-name>
+         <servlet-class>SignUp</servlet-class>
+ </servlet>
+
+
+ <servlet-mapping>
+         <servlet-name>SignUp</servlet-name>
+         <url-pattern>/SignUp</url-pattern>
+ </servlet-mapping>
+
+ <servlet>
+         <servlet-name>Login</servlet-name>
+         <servlet-class>Login</servlet-class>
+ </servlet>
+
+
+ <servlet-mapping>
+         <servlet-name>Login</servlet-name>
+         <url-pattern>/Login</url-pattern>
+ </servlet-mapping>
+
+ <servlet>
+         <servlet-name>Logout</servlet-name>
+         <servlet-class>Logout</servlet-class>
+ </servlet>
+
+
+ <servlet-mapping>
+         <servlet-name>Logout</servlet-name>
+         <url-pattern>/Logout</url-pattern>
+ </servlet-mapping>
+
+ <servlet>
+         <servlet-name>WriteReview</servlet-name>
+         <servlet-class>WriteReview</servlet-class>
+ </servlet>
+
+
+ <servlet-mapping>
+         <servlet-name>WriteReview</servlet-name>
+         <url-pattern>/WriteReview</url-pattern>
+ </servlet-mapping>
+
+
+<servlet>
+    <servlet-name>AddCustomerAdminServlet</servlet-name>
+    <servlet-class>AddCustomerAdminServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>AddCustomerAdminServlet</servlet-name>
+    <url-pattern>/AddCustomerAdminServlet</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+    <servlet-name>DeleteAdminServlet</servlet-name>
+    <servlet-class>DeleteAdminServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>DeleteAdminServlet</servlet-name>
+    <url-pattern>/DeleteAdminServlet</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+    <servlet-name>UpdateCustomerAdminServlet</servlet-name>
+    <servlet-class>UpdateCustomerAdminServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>UpdateCustomerAdminServlet</servlet-name>
+    <url-pattern>/UpdateCustomerAdminServlet</url-pattern>
+  </servlet-mapping>
+
+
+
+  <servlet>
+    <servlet-name>UpdateAccessoryAdminServlet</servlet-name>
+    <servlet-class>UpdateAccessoryAdminServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>UpdateAccessoryAdminServlet</servlet-name>
+    <url-pattern>/UpdateAccessoryAdminServlet</url-pattern>
+  </servlet-mapping>
+
+
+    <servlet>
+    <servlet-name>UpdateInsuranceAdminServlet</servlet-name>
+    <servlet-class>UpdateInsuranceAdminServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>UpdateInsuranceAdminServlet</servlet-name>
+    <url-pattern>/UpdateInsuranceAdminServlet</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+    <servlet-name>UpdateVehicleAdminServlet</servlet-name>
+    <servlet-class>UpdateVehicleAdminServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>UpdateVehicleAdminServlet</servlet-name>
+    <url-pattern>/UpdateVehicleAdminServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>UpdateVehicleTypeAdminServlet</servlet-name>
+    <servlet-class>UpdateVehicleTypeAdminServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>UpdateVehicleTypeAdminServlet</servlet-name>
+    <url-pattern>/UpdateVehicleTypeAdminServlet</url-pattern>
+  </servlet-mapping>
+
+
+<servlet>
+    <servlet-name>UpdateLocationAdminServlet</servlet-name>
+    <servlet-class>UpdateLocationAdminServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>UpdateLocationAdminServlet</servlet-name>
+    <url-pattern>/UpdateLocationAdminServlet</url-pattern>
+  </servlet-mapping>
+<servlet>
+
+    <servlet-name>AddLocationAdminServlet</servlet-name>
+    <servlet-class>AddLocationAdminServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>AddLocationAdminServlet</servlet-name>
+    <url-pattern>/AddLocationAdminServlet</url-pattern>
+  </servlet-mapping>
+
+
+<servlet>
+    <servlet-name>AddInsuranceAdminServlet</servlet-name>
+    <servlet-class>AddInsuranceAdminServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>AddInsuranceAdminServlet</servlet-name>
+    <url-pattern>/AddInsuranceAdminServlet</url-pattern>
+  </servlet-mapping>
+<servlet>
+    <servlet-name>AddVehicleAdminServlet</servlet-name>
+    <servlet-class>AddVehicleAdminServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>AddVehicleAdminServlet</servlet-name>
+    <url-pattern>/AddVehicleAdminServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>AddVehicleTypeAdminServlet</servlet-name>
+    <servlet-class>AddVehicleTypeAdminServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>AddVehicleTypeAdminServlet</servlet-name>
+    <url-pattern>/AddVehicleTypeAdminServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>AddAccessoryAdminServlet</servlet-name>
+    <servlet-class>AddAccessoryAdminServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>AddAccessoryAdminServlet</servlet-name>
+    <url-pattern>/AddAccessoryAdminServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>AutoCompleteServlet</servlet-name>
+	<servlet-class>AutoCompleteServlet</servlet-class>
+</servlet>
+   
+<servlet-mapping>
+	<servlet-name>AutoCompleteServlet</servlet-name>
+	<url-pattern>/AutoCompleteServlet</url-pattern>
+</servlet-mapping>
+
+<servlet>
+	<servlet-name>ViewReview</servlet-name>
+	<servlet-class>ViewReview</servlet-class>
+</servlet>
+   
+<servlet-mapping>
+	<servlet-name>ViewReview</servlet-name>
+	<url-pattern>/ViewReview</url-pattern>
+</servlet-mapping>
+
+<servlet>
+	  <servlet-name>LocationResult</servlet-name>
+	  <servlet-class>LocationResult</servlet-class>
+</servlet>
+
+<servlet-mapping>
+	  <servlet-name>LocationResult</servlet-name>
+	  <url-pattern>/LocationResult</url-pattern>
+</servlet-mapping>
+
+<servlet>
+	  <servlet-name>AutoCompleteServletForLocationTab</servlet-name>
+	  <servlet-class>AutoCompleteServletForLocationTab</servlet-class>
+</servlet>
+
+<servlet-mapping>
+	  <servlet-name>AutoCompleteServletForLocationTab</servlet-name>
+	  <url-pattern>/AutoCompleteServletForLocationTab</url-pattern>
+</servlet-mapping>
+
+
+<servlet>
+	  <servlet-name>DeletePromotionAdminServlet</servlet-name>
+	  <servlet-class>DeletePromotionAdminServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+	  <servlet-name>DeletePromotionAdminServlet</servlet-name>
+	  <url-pattern>/DeletePromotionAdminServlet</url-pattern>
+</servlet-mapping>
+
+
+</web-app>

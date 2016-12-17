@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VehicleCatalog>
+	
+    <vehicle vin="1HGCM82633A004352" id="toyotacorolla">
+		<image>images/Toyota Corolla.jpg</image>
+        <type>Compact</type>
+        <make>Toyota</make>
+		<model>Corolla</model>
+        <locationId>LO1</locationId>
+        <price>31.00</price>
+		<mileage>32</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>1</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="2HGCM82683A004352" id="toyota4runner">
+		<image>images/Toyota 4Runner.jpg</image>
+        <type>SUV</type>
+        <make>Toyota</make>
+		<model>4Runner</model>
+        <locationId>LO2</locationId>
+        <price>78.00</price>
+		<mileage>22</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="3HGCM82633A774344" id="toyotapriushybrid">
+		<image>images/Toyota Prius Hybrid.jpg</image>
+        <type>Eco-Friendly</type>
+        <make>Toyota</make>
+		<model>Prius Hybrid</model>
+        <locationId>LO3</locationId>
+        <price>47.00</price>
+		<mileage>42</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>1</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	
+	
+	<vehicle vin="3HGCM82633A004344" id="nissanquest">
+		<image>images/Nissan Quest.jpg</image>
+        <type>Minivan</type>
+        <make>Nissan</make>
+		<model>Quest</model>
+        <locationId>LO4</locationId>
+        <price>68.00</price>
+		<mileage>20</mileage>
+		<passengers>7</passengers>
+        <smallLuggage>3</smallLuggage>
+		<largeLuggage>3</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="3HFCM72633A004344" id="nissanaltima">
+		<image>images/Nissan Altima.jpg</image>
+        <type>Fullsize</type>
+        <make>Nissan</make>
+		<model>Altima</model>
+        <locationId>LO5</locationId>
+        <price>40.00</price>
+		<mileage>26</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>1</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="3HFCM72633A004380" id="nissanarmada">
+		<image>images/Nissan Armada.jpg</image>
+        <type>Full-Size SUV</type>
+        <make>Nissan</make>
+		<model>Armada</model>
+        <locationId>LO6</locationId>
+        <price>85.00</price>
+		<mileage>19</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="3HFCM72633A004381" id="nissanfrontiercrewcab">
+		<image>images/Nissan Frontier Crew Cab.jpg</image>
+        <type>Full-Size SUV</type>
+        <make>Nissan</make>
+		<model>Frontier Crew Cab</model>
+        <locationId>LO7</locationId>
+        <price>65.00</price>
+		<mileage>17</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>3</smallLuggage>
+		<largeLuggage>4</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="3HFCM72633A004382" id="nissannv">
+		<image>images/Nissan NV.jpg</image>
+        <type>Minivan</type>
+        <make>Nissan</make>
+		<model>NV</model>
+        <locationId>LO1</locationId>
+        <price>69.00</price>
+		<mileage>21</mileage>
+		<passengers>7</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="3HFCM72633A004383" id="nissanpathfinder">
+		<image>images/Nissan Pathfinder.jpg</image>
+        <type>SUV</type>
+        <make>Nissan</make>
+		<model>Pathfinder</model>
+        <locationId>LO2</locationId>
+        <price>75.00</price>
+		<mileage>19</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="3HFCM72633A004384" id="nissanrogue">
+		<image>images/Nissan Rogue.jpg</image>
+        <type>SUV</type>
+        <make>Nissan</make>
+		<model>Rogue</model>
+        <locationId>LO3</locationId>
+        <price>56.00</price>
+		<mileage>24</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="3HFCM72633A004385" id="nissanversa">
+		<image>images/Nissan Versa.jpg</image>
+        <type>Compact</type>
+        <make>Nissan</make>
+		<model>Versa</model>
+        <locationId>LO4</locationId>
+        <price>32.00</price>
+		<mileage>34</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>1</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="4HKCM82637A004750" id="porscheboxter">
+		<image>images/Porsche Boxter.jpg</image>
+        <type>Sports</type>
+        <make>Porsche</make>
+		<model>Boxter</model>
+        <locationId>LO4</locationId>
+        <price>230.00</price>
+		<mileage>14</mileage>
+		<passengers>2</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="4HKCM82637A004751" id="porsce911">
+		<image>images/Porsche 911.jpg</image>
+        <type>Sports</type>
+        <make>Porsche</make>
+		<model>911</model>
+        <locationId>LO4</locationId>
+        <price>210.00</price>
+		<mileage>13</mileage>
+		<passengers>2</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Manual</transmission>
+    </vehicle>
+	
+	<vehicle vin="4HKCM82637A004752" id="porschecayenne">
+		<image>images/Porsche Cayenne.jpg</image>
+        <type>SUV</type>
+        <make>Porsche</make>
+		<model>Cayenne</model>
+        <locationId>LO7</locationId>
+        <price>180.00</price>
+		<mileage>18</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="4HKCM82637A004753" id="porschecayman">
+		<image>images/Porsche Cayman.jpg</image>
+        <type>Sports</type>
+        <make>Porsche</make>
+		<model>Cayman</model>
+        <locationId>LO4</locationId>
+        <price>195.00</price>
+		<mileage>16</mileage>
+		<passengers>2</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="4HKCM82637A004754" id="porschemacan">
+		<image>images/Porsche Macan.jpg</image>
+        <type>Luxury</type>
+        <make>Porsche</make>
+		<model>Macan</model>
+        <locationId>LO2</locationId>
+        <price>175.00</price>
+		<mileage>16</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="4HKCM82637A004755" id="porschepanamera">
+		<image>images/Porsche Panamera.jpg</image>
+        <type>Luxury</type>
+        <make>Porsche</make>
+		<model>Panamera</model>
+        <locationId>LO3</locationId>
+        <price>155.00</price>
+		<mileage>19</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>1</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	
+	
+	<vehicle vin="5CCCM82637A005340" id="chevroletsuburban">
+		<image>images/Chevrolet Suburban.jpg</image>
+        <type>Full-Size SUV</type>
+        <make>Chevrolet</make>
+		<model>Suburban</model>
+        <locationId>LO4</locationId>
+        <price>125.00</price>
+		<mileage>18</mileage>
+		<passengers>7</passengers>
+        <smallLuggage>3</smallLuggage>
+		<largeLuggage>3</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A005341" id="chevroletcamaroconvertible">
+		<image>images/Chevrolet Camaro Convertible.jpg</image>
+        <type>Convertible</type>
+        <make>Chevrolet</make>
+		<model>Camaro Convertible</model>
+        <locationId>LO5</locationId>
+        <price>95.00</price>
+		<mileage>16</mileage>
+		<passengers>2</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A005342" id="chevroletcamarossconvertible">
+		<image>images/Chevrolet Camaro SS Convertible.jpg</image>
+        <type>Convertible</type>
+        <make>Chevrolet</make>
+		<model>Camaro SS Convertible</model>
+        <locationId>LO6</locationId>
+        <price>125.00</price>
+		<mileage>15</mileage>
+		<passengers>2</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A005343" id="chevroletcamaross">
+		<image>images/Chevrolet Camaro SS.jpg</image>
+        <type>Sports</type>
+        <make>Chevrolet</make>
+		<model>Camaro SS</model>
+        <locationId>LO4</locationId>
+        <price>90.00</price>
+		<mileage>16</mileage>
+		<passengers>2</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A005344" id="chevroletcruze">
+		<image>images/Chevrolet Cruze.jpg</image>
+        <type>Compact</type>
+        <make>Chevrolet</make>
+		<model>Cruze</model>
+        <locationId>LO1</locationId>
+        <price>30.00</price>
+		<mileage>36</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>1</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A005345" id="chevroletimpala">
+		<image>images/Chevrolet Impala.jpg</image>
+        <type>Fullsize</type>
+        <make>Chevrolet</make>
+		<model>Impala</model>
+        <locationId>LO2</locationId>
+        <price>65.00</price>
+		<mileage>26</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A005346" id="chevroletspark">
+		<image>images/Chevrolet Spark.jpg</image>
+        <type>Compact</type>
+        <make>Chevrolet</make>
+		<model>Spark</model>
+        <locationId>LO3</locationId>
+        <price>25.00</price>
+		<mileage>36</mileage>
+		<passengers>4</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006240" id="mercedesc63amg">
+		<image>images/Mercedes C63 AMG.jpg</image>
+        <type>Luxury</type>
+        <make>Mercedes</make>
+		<model>C63 AMG</model>
+        <locationId>LO4</locationId>
+        <price>88.00</price>
+		<mileage>19</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>1</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006241" id="mercedesc300">
+		<image>images/Mercedes C300.jpg</image>
+        <type>Luxury</type>
+        <make>Mercedes</make>
+		<model>C300</model>
+        <locationId>LO5</locationId>
+        <price>78.00</price>
+		<mileage>19</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>1</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006242" id="mercedescla45amg">
+		<image>images/Mercedes CLA45 AMG.jpg</image>
+        <type>Luxury</type>
+        <make>Mercedes</make>
+		<model>CLA 45 AMG</model>
+        <locationId>LO6</locationId>
+        <price>95.00</price>
+		<mileage>18</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>1</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006243" id="mercedeseclass">
+		<image>images/Mercedes E Class.jpg</image>
+        <type>Luxury</type>
+        <make>Mercedes</make>
+		<model>E Class</model>
+        <locationId>LO7</locationId>
+        <price>135.00</price>
+		<mileage>18</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006244" id="mercedesg550">
+		<image>images/Mercedes G550.jpg</image>
+        <type>SUV</type>
+        <make>Mercedes</make>
+		<model>G 550</model>
+        <locationId>LO1</locationId>
+        <price>145.00</price>
+		<mileage>15</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006245" id="mercedesgl450">
+		<image>images/Mercedes GL450.jpg</image>
+        <type>Full-Size SUV</type>
+        <make>Mercedes</make>
+		<model>GL 450</model>
+        <locationId>LO2</locationId>
+        <price>130.00</price>
+		<mileage>17</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>3</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006246" id="mercedesglc">
+		<image>images/Mercedes GLC.jpg</image>
+        <type>SUV</type>
+        <make>Mercedes</make>
+		<model>GLC</model>
+        <locationId>LO3</locationId>
+        <price>110.00</price>
+		<mileage>17</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006247" id="mercedesgle350">
+		<image>images/Mercedes GLE350.jpg</image>
+        <type>SUV</type>
+        <make>Mercedes</make>
+		<model>GLE 350</model>
+        <locationId>LO4</locationId>
+        <price>120.00</price>
+		<mileage>17</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006248" id="mercedess550">
+		<image>images/Mercedes S550.jpg</image>
+        <type>Luxury</type>
+        <make>Mercedes</make>
+		<model>S 550</model>
+        <locationId>LO5</locationId>
+        <price>170.00</price>
+		<mileage>16</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006249" id="mercedessl550cv">
+		<image>images/Mercedes SL550 CV.jpg</image>
+        <type>Convertible</type>
+        <make>Mercedes</make>
+		<model>SL 550 CV</model>
+        <locationId>LO6</locationId>
+        <price>185.00</price>
+		<mileage>15</mileage>
+		<passengers>2</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006250" id="mercedesslk250">
+		<image>images/Mercedes SLK250.jpg</image>
+        <type>Convertible</type>
+        <make>Mercedes</make>
+		<model>SLK 250</model>
+        <locationId>LO7</locationId>
+        <price>125.00</price>
+		<mileage>15</mileage>
+		<passengers>2</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006310" id="shelbygtmustang">
+		<image>images/Shelby GT Mustang.jpg</image>
+        <type>Sports</type>
+        <make>Shelby</make>
+		<model>GT Mustang</model>
+        <locationId>LO4</locationId>
+        <price>195.00</price>
+		<mileage>12</mileage>
+		<passengers>2</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006410" id="teslamodels">
+		<image>images/Tesla Model S.jpg</image>
+        <type>Luxury</type>
+        <make>Tesla</make>
+		<model>Model S</model>
+        <locationId>LO2</locationId>
+        <price>150.00</price>
+		<mileage>28</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006510" id="volkswagenjetta">
+		<image>images/Volkswagen Jetta.jpg</image>
+        <type>Compact</type>
+        <make>Volkswagen</make>
+		<model>Jetta</model>
+        <locationId>LO3</locationId>
+        <price>35.00</price>
+		<mileage>32</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>1</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006610" id="audia3">
+		<image>images/Audi A3.jpg</image>
+        <type>Compact</type>
+        <make>Audi</make>
+		<model>A3</model>
+        <locationId>LO4</locationId>
+        <price>65.00</price>
+		<mileage>26</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>1</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006710" id="bmw650iconvertible">
+		<image>images/BMW 650i Convertible.jpg</image>
+        <type>Convertible</type>
+        <make>BMW</make>
+		<model>650i Convertible</model>
+        <locationId>LO5</locationId>
+        <price>175.00</price>
+		<mileage>15</mileage>
+		<passengers>2</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A006810" id="cadillacescalade">
+		<image>images/Cadillac Escalade.jpg</image>
+        <type>Full-Size SUV</type>
+        <make>Cadilac</make>
+		<model>Escalade</model>
+        <locationId>LO6</locationId>
+        <price>165.00</price>
+		<mileage>15</mileage>
+		<passengers>7</passengers>
+        <smallLuggage>3</smallLuggage>
+		<largeLuggage>3</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A007210" id="chrysler200">
+		<image>images/Chrysler 200.jpg</image>
+        <type>Compact</type>
+        <make>Chrysler</make>
+		<model>200</model>
+        <locationId>LO7</locationId>
+        <price>40.00</price>
+		<mileage>30</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>1</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A007310" id="chrysler300">
+		<image>images/Chrysler 200.jpg</image>
+        <type>Fullsize</type>
+        <make>Chrysler</make>
+		<model>300</model>
+        <locationId>LO1</locationId>
+        <price>60.00</price>
+		<mileage>25</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A007410" id="dodgechallengerrt">
+		<image>images/Dodge Challenger RT.jpg</image>
+        <type>Sports</type>
+        <make>Dodge</make>
+		<model>Challenger RT</model>
+        <locationId>LO4</locationId>
+        <price>120.00</price>
+		<mileage>12</mileage>
+		<passengers>2</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Manual</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A007510" id="dodgejourney">
+		<image>images/Dodge Journey.jpg</image>
+        <type>SUV</type>
+        <make>Dodge</make>
+		<model>Journey</model>
+        <locationId>LO3</locationId>
+        <price>65.00</price>
+		<mileage>18</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A007610" id="fordmustanggtpremium">
+		<image>images/Ford Mustang GT Premium.jpg</image>
+        <type>Sports</type>
+        <make>Ford</make>
+		<model>Mustang GT Premium</model>
+        <locationId>LO4</locationId>
+        <price>115.00</price>
+		<mileage>14</mileage>
+		<passengers>2</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A007620" id="fordtransit">
+		<image>images/Ford Transit 12 psgr.jpg</image>
+        <type>Minivan</type>
+        <make>Ford</make>
+		<model>Transit</model>
+        <locationId>LO5</locationId>
+        <price>95.00</price>
+		<mileage>16</mileage>
+		<passengers>12</passengers>
+        <smallLuggage>4</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A007710" id="hyundaisantafe">
+		<image>images/Hyundai Santa Fe.jpg</image>
+        <type>SUV</type>
+        <make>Hyundai</make>
+		<model>Santa Fe</model>
+        <locationId>LO6</locationId>
+        <price>70.00</price>
+		<mileage>18</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A007810" id="infinitiq50">
+		<image>images/Infiniti Q50.jpg</image>
+        <type>Fullsize</type>
+        <make>Infiniti</make>
+		<model>Q50</model>
+        <locationId>LO7</locationId>
+        <price>75.00</price>
+		<mileage>18</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A007820" id="infinitiqx60">
+		<image>images/Infiniti QX60.jpg</image>
+        <type>SUV</type>
+        <make>Infiniti</make>
+		<model>QX 60</model>
+        <locationId>LO1</locationId>
+        <price>80.00</price>
+		<mileage>18</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A007830" id="infinitiqx70">
+		<image>images/Infiniti QX70.jpg</image>
+        <type>SUV</type>
+        <make>Infiniti</make>
+		<model>QX 70</model>
+        <locationId>LO2</locationId>
+        <price>90.00</price>
+		<mileage>16</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A007840" id="infinitiqx80">
+		<image>images/Infiniti QX80.jpg</image>
+        <type>Full-Size SUV</type>
+        <make>Infiniti</make>
+		<model>QX 80</model>
+        <locationId>LO3</locationId>
+        <price>130.00</price>
+		<mileage>16</mileage>
+		<passengers>7</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A009810" id="jaguarxj">
+		<image>images/Jaguar XJ.jpg</image>
+        <type>Luxury</type>
+        <make>Jaguar</make>
+		<model>XJ</model>
+        <locationId>LO4</locationId>
+        <price>170.00</price>
+		<mileage>16</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A009210" id="jeepcompass">
+		<image>images/Jeep Compass.jpg</image>
+        <type>SUV</type>
+        <make>Jeep</make>
+		<model>Compass</model>
+        <locationId>LO5</locationId>
+        <price>60.00</price>
+		<mileage>24</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>1</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A009250" id="jeepwrangler">
+		<image>images/Jeep Wrangler.jpg</image>
+        <type>SUV</type>
+        <make>Jeep</make>
+		<model>Wrangler</model>
+        <locationId>LO6</locationId>
+        <price>70.00</price>
+		<mileage>24</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>1</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A001250" id="landroversport">
+		<image>images/Land Rover Sport.jpg</image>
+        <type>SUV</type>
+        <make>Land Rover</make>
+		<model>Sport</model>
+        <locationId>LO7</locationId>
+        <price>150.00</price>
+		<mileage>20</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A007770" id="corvetteconvertible">
+		<image>images/Corvette Convertible.jpg</image>
+        <type>Convertible</type>
+        <make>Corvette</make>
+		<model>Convertible</model>
+        <locationId>LO1</locationId>
+        <price>160.00</price>
+		<mileage>12</mileage>
+		<passengers>2</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A007780" id="corvettestingray">
+		<image>images/Corvette Stingray.jpg</image>
+        <type>Sports</type>
+        <make>Corvette</make>
+		<model>Stingray</model>
+        <locationId>LO4</locationId>
+        <price>220.00</price>
+		<mileage>10</mileage>
+		<passengers>2</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+</VehicleCatalog>
